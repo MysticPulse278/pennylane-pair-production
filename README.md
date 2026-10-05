@@ -17,5 +17,6 @@ As a carrier, a 2D harmonic oscillator with amplitude $A_0$ and frequency $\omeg
 - check for unitarity (probabilities of both states should add up to 1)
 - define a finite field pulse with start and end time
 - plot 2D momentum distribution spectra in the $p_xp_y$-plane
+- explore possibilities of running the circuit on real quantum hardware
 
 
